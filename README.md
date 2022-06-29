@@ -1,7 +1,7 @@
 # Hola! 
 ¡Hola! Mi nombre es Priscila, tengo 26 años y soy estudiante de Desarrollo Web y Aplicaciones Digitales en ISPC.
 
-Actualmente uso las siguientes tecnologías:
+<strong> Actualmente uso las siguientes tecnologías:</strong>
 - HTML 5
 - CSS 3
 - Javascript
